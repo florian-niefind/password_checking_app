@@ -1,6 +1,7 @@
 # password_checking_app
 
-FIXME
+A simple web-app to teach my school kids to authenticate via http(s) with a
+username and password.
 
 ## Prerequisites
 
@@ -16,4 +17,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2018 FIXME
+Copyright © 2018 Dr. Florian Niefind
